@@ -1,0 +1,82 @@
+p{
+	font-size:25px;
+	font-family: sans-serif;
+	color:black;
+	text-align: center;
+}
+#one{
+	background-color:#cfdea8;
+	float: left;
+	height: 70px;
+	width: 100%;
+}
+#two{
+	background-color:gray;
+	float: left;
+	height: 500px;
+	width: 33%;
+}
+#three{
+	background-color:skyblue;
+	float: left;
+	height: 500px;
+	width: 33%;
+}
+#four{
+	background-color:pink;
+	float: left;
+	height: 500px;
+	width: 34%;
+}
+#five{
+	background-color:#cfdea8;
+	float: left;
+	height: 600px;
+	width: 100%;
+}
+#a{
+	float: left;
+	width: 25%;
+}
+#b{
+    float: left;
+    width: 25%;
+}
+#c{
+	float: left;
+    width: 25%;
+}
+#d{
+	float: left;
+    width: 25%;
+}
+#E{
+	background-color:#123543;
+	float: left;
+	height: 200px;
+	width: 33%;
+}
+#F{
+	background-color:#142356;
+	float: left;
+	height: 200px;
+	width: 33%;
+}
+#G{
+	background-color:#909823;
+	float: left;
+	height: 200px;
+	width: 33%;
+}
+#H{
+	background-color:#543;
+	float: left;
+	height: 200px;
+	width: 50%;
+}
+#I{
+	background-color:#129;
+	float: left;
+	height: 200px;
+	width: 50%;
+}
